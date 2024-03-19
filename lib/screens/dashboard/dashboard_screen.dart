@@ -43,7 +43,7 @@ class DashBoardScreen extends StatelessWidget {
                     child: CenterPart(),
                   ),
                   if (!Responsive.isMoble(context))
-                    Expanded(flex: 4, child: SaleDetailsScreen()),
+                    Expanded(flex: 4, child: SaleDetails()),
                 ],
               ),
             ),
@@ -52,7 +52,7 @@ class DashBoardScreen extends StatelessWidget {
               SizedBox(
                 height: MediaQuery.of(context).size.height *
                     0.6, // Provide a height constraint
-                child: SaleDetailsScreen(),
+                child: SaleDetails(),
               ),
           ],
         ),

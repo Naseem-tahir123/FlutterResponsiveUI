@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:ui_task_1/responsive.dart';
 import 'package:ui_task_1/screens/dashboard/components/pie_chart.dart';
 
-class SaleDetailsScreen extends StatelessWidget {
-  const SaleDetailsScreen({super.key});
+class SaleDetails extends StatelessWidget {
+  const SaleDetails({super.key});
 
   @override
   Widget build(BuildContext context) {
