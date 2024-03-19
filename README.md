@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+<img width="652" alt="desktop view" src="https://github.com/Naseem-tahir123/FlutterResponsiveUI/assets/97142397/35f81fe0-f72c-4786-8511-d69a0dfef371">
 
 This project is a starting point for a Flutter application.
 
